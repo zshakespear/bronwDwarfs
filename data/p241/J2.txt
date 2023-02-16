@@ -1,0 +1,4 @@
+dsp241J.0077.fits
+dsp241J.0078.fits
+dsp241J.0079.fits
+dsp241J.0081.fits

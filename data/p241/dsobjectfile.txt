@@ -1,0 +1,14 @@
+dsp241J.0074.fits
+dsp241J.0075.fits
+dsp241J.0076.fits
+dsp241J.0077.fits
+dsp241J.0078.fits
+dsp241J.0079.fits
+dsp241J.0080.fits
+dsp241J.0081.fits
+dsp241K.0068.fits
+dsp241K.0069.fits
+dsp241K.0070.fits
+dsp241K.0071.fits
+dsp241K.0072.fits
+dsp241K.0073.fits
